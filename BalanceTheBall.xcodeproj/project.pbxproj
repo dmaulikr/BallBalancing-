@@ -1105,7 +1105,7 @@
 						CreatedOnToolsVersion = 6.0.1;
 					};
 					B77F1B2D17B978D7009739AE = {
-						DevelopmentTeam = R252PR8AVU;
+						DevelopmentTeam = 4NK2FHQR4S;
 						LastSwiftMigration = 0800;
 						SystemCapabilities = {
 							com.apple.GameCenter = {
@@ -1647,6 +1647,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				DEVELOPMENT_TEAM = 4NK2FHQR4S;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/RebeloperKitMini/ThirdPartyLibsAndFrameworks/AdMob",
@@ -1677,7 +1678,7 @@
 					"-lSoomlaiOSStore",
 					"-lSoomlaiOSCore",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.SandorNagy.CircleMiniGame2;
+				PRODUCT_BUNDLE_IDENTIFIER = "Guru-Labs.weatherForecast";
 				PRODUCT_NAME = BalanceTheBall;
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Source/Bridging-Header.h";
@@ -1696,6 +1697,7 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
+				DEVELOPMENT_TEAM = 4NK2FHQR4S;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/RebeloperKitMini/ThirdPartyLibsAndFrameworks/AdMob",
@@ -1724,7 +1726,7 @@
 					"-lSoomlaiOSStore",
 					"-lSoomlaiOSCore",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.SandorNagy.CircleMiniGame2;
+				PRODUCT_BUNDLE_IDENTIFIER = "Guru-Labs.weatherForecast";
 				PRODUCT_NAME = BalanceTheBall;
 				PROVISIONING_PROFILE = "";
 				SWIFT_OBJC_BRIDGING_HEADER = "Source/Bridging-Header.h";
