@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AdMobBannerID</key>
+	<string>ca-app-pub-5929906465272565/6775567131</string>
+	<key>ChartboostAppID</key>
+	<string>5501e6ecc909a674d3562335</string>
+	<key>ChartboostAppSignature</key>
+	<string>c69e80c25f6496ce5645e7428f3e331a7cb4c7a6</string>
+	<key>SupersonicAdsApplicationKey</key>
+	<string>3df774a9</string>
+	<key>FyberAppID</key>
+	<string>39419</string>
+	<key>FyberSecurityToken</key>
+	<string>01d827844a82f12e2f2e05941be2ae62</string>
+	<key>AdFrequency</key>
+	<integer>2</integer>
+	<key>MainMenuAdNetwork</key>
+	<string>Fyber</string>
+	<key>GameOverAdNetwork</key>
+	<string>Chartboost</string>
+	<key>MainMenuAdNetwork_LevelSystemOnly</key>
+	<string>Chartboost</string>
+	<key>MissionCompletedAdNetwork_LevelSystemOnly</key>
+	<string>Supersonic</string>
+	<key>RateAppID</key>
+	<string>976019810</string>
+	<key>RateDaysUntilPrompt</key>
+	<integer>1</integer>
+	<key>RateUsesUntilPrompt</key>
+	<integer>3</integer>
+	<key>RateRemindPeriod</key>
+	<integer>1</integer>
+	<key>RatePromptTitle</key>
+	<string>Rate My Awesome App</string>
+	<key>RatePromptMessage</key>
+	<string>If you like My Awesome App, please take the time and rate it.</string>
+	<key>RatePromptCancelButton</key>
+	<string>No, thanks</string>
+	<key>RatePromptRemindButton</key>
+	<string>Remind me later</string>
+	<key>RatePromptRateButton</key>
+	<string>Rate</string>
+	<key>IAPCustomSecret</key>
+	<string>SECRET</string>
+	<key>IAPNoAdsID</key>
+	<string>com.SandorNagy.CircleMiniGame.NoAds</string>
+	<key>GameCenterLeaderboardID</key>
+	<string>com.SandorNagy.CircleMiniGame.Scores</string>
+	<key>XInitializerItem</key>
+	<string>DoNotEverChangeMe</string>
+</dict>
+</plist>
